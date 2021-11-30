@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace Bernadette_Straub__Lab5
+namespace Bernadette_Straub_Lab5
 {
     /// <summary>
     /// Interaction logic for App.xaml
